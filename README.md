@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="assets/cover.png" alt="AI Radar Pulse Cover" width="100%" style="max-width: 900px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,212,255,0.2);">
+    <img src="assets/cover.png.png" alt="AI Radar Pulse Cover" width="100%" style="max-width: 900px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,212,255,0.2);">
   </p>
 
   <br>
