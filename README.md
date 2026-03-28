@@ -1,19 +1,45 @@
 <div align="center">
 
-# 🛰️ AI Radar Pulse
-### *Autonomous Model Intelligence & High-Availability Orchestration*
-**Powered by the [OpenClaw](https://github.com/OpenClaw/OpenClaw) Engine**
+  <p align="center">
+    <img src="https://i.imgur.com/8Q0b3xH.png" alt="AI Radar Pulse Cover" width="100%" style="max-width: 900px; border-radius: 8px;">
+  </p>
 
-[![Engine](https://img.shields.io/badge/Core_Engine-OpenClaw_v2-7F00FF?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/OpenClaw/OpenClaw)
-[![Architecture](https://img.shields.io/badge/Architecture-Decoupled_Multi--Cloud-00D4FF?style=for-the-badge&logo=diagrams.net&logoColor=white)](#)
-[![Performance](https://img.shields.io/badge/Compute-16GB_High--Memory-FFD700?style=for-the-badge&logo=speedtest&logoColor=black)](#)
-[![Efficiency](https://img.shields.io/badge/OPEX-0.00_USD-28A745?style=for-the-badge&logo=micro-soft-academic&logoColor=white)](#)
+  <br>
+  <h1>🛰️ AI Radar Pulse</h1>
+  <h3><i>Autonomous Model Intelligence & High-Availability Orchestration</i></h3>
+  <p><b>Powered by the <a href="https://github.com/OpenClaw/OpenClaw">OpenClaw</a> Engine</b></p>
+  <br>
 
----
+  <p align="center">
+    <a href="https://github.com/OpenClaw/OpenClaw">
+      <img src="https://img.shields.io/badge/Core_Engine-OpenClaw_v2-7F00FF?style=for-the-badge&logo=probot&logoColor=white" alt="Engine">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Architecture-Decoupled_Multi--Cloud-00D4FF?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Architecture">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Compute-15+GB_High--Memory-FFD700?style=for-the-badge&logo=speedtest&logoColor=black" alt="Performance">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/OPEX-0.00_USD-28A745?style=for-the-badge&logo=micro-soft-academic&logoColor=white" alt="Efficiency">
+    </a>
+  </p>
 
-**AI Radar Pulse** is a high-availability tracking framework designed to monitor, rank, and notify the global AI community of bleeding-edge model releases. By utilizing a **Zero-OPEX Distributed Infrastructure**, it provides enterprise-grade reliability and 16GB RAM compute nodes without any monthly overhead.
+  <br>
+  <hr width="100%">
+  <br>
 
-[**Explore Features**](#-key-features) • [**View Architecture**](#-the-zero-opex-innovation) • [**Request Demo**](#)
+  <p>
+    <strong>AI Radar Pulse</strong> is a high-availability tracking framework designed to monitor, rank, and notify the global AI community of bleeding-edge model releases. By utilizing a **Zero-OPEX Distributed Infrastructure**, it provides enterprise-grade reliability and 15+GB RAM compute nodes without any monthly overhead.
+  </p>
 
----
+  <p>
+    [<a href="#-key-features"><strong>Explore Features</strong></a>] • 
+    [<a href="#-the-zero-opex-innovation"><strong>View Architecture</strong></a>] • 
+    [<a href="#-portfolio-access"><strong>Request Demo</strong></a>]
+  </p>
+
+  <br>
+  <hr width="100%">
+  <br>
 </div>
