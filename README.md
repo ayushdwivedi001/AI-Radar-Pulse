@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://i.imgur.com/8Q0b3xH.png" alt="AI Radar Pulse Cover" width="100%" style="max-width: 900px; border-radius: 8px;">
+    <img src="assets/cover.png" alt="AI Radar Pulse Cover" width="100%" style="max-width: 900px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,212,255,0.2);">
   </p>
 
   <br>
@@ -30,7 +30,7 @@
   <br>
 
   <p>
-    <strong>AI Radar Pulse</strong> is a high-availability tracking framework designed to monitor, rank, and notify the global AI community of bleeding-edge model releases. By utilizing a **Zero-OPEX Distributed Infrastructure**, it provides enterprise-grade reliability and 15+GB RAM compute nodes without any monthly overhead.
+    <strong>AI Radar Pulse</strong> is a high-availability tracking framework designed to monitor, rank, and notify the global AI community of bleeding-edge model releases. By utilizing a <strong>Zero-OPEX Distributed Infrastructure</strong>, it provides enterprise-grade reliability and 15+GB RAM compute nodes without any monthly overhead.
   </p>
 
   <p>
