@@ -297,7 +297,7 @@ However, I am highly open to technical deep-dives with fellow engineers, recruit
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE_URL_HERE">
+  <a href="https://www.linkedin.com/in/ayush-dwivedi29/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect">
   </a>
   <a href="mailto:ayushdwivedi2049@gmail.com">
